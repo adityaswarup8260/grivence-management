@@ -1,2 +1,2 @@
-# grivence-management
-group project
+# GMS
+Grievance Manaement System
